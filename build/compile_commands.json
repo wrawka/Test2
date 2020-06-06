@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/MD/Lebedev/projects/Test/build",
+  "command": "D:\\MD\\Lebedev\\bin\\g++.exe    -g   -o CMakeFiles\\ttest.dir\\test_runner.cpp.obj -c D:\\MD\\Lebedev\\projects\\Test\\test_runner.cpp",
+  "file": "D:/MD/Lebedev/projects/Test/test_runner.cpp"
+},
+{
+  "directory": "D:/MD/Lebedev/projects/Test/build",
+  "command": "D:\\MD\\Lebedev\\bin\\g++.exe    -g   -o CMakeFiles\\ttest.dir\\main.cpp.obj -c D:\\MD\\Lebedev\\projects\\Test\\main.cpp",
+  "file": "D:/MD/Lebedev/projects/Test/main.cpp"
+}
+]

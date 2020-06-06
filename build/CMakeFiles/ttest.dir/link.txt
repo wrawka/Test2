@@ -1,0 +1,3 @@
+D:\MD\Lebedev\cmake-3.17.3-win64-x64\bin\cmake.exe -E rm -f CMakeFiles\ttest.dir/objects.a
+D:\MD\Lebedev\bin\ar.exe cr CMakeFiles\ttest.dir/objects.a @CMakeFiles\ttest.dir\objects1.rsp
+D:\MD\Lebedev\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\ttest.dir/objects.a -Wl,--no-whole-archive  -o ttest.exe -Wl,--out-implib,libttest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ttest.dir\linklibs.rsp
